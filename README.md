@@ -10,12 +10,12 @@ Osa   0
 Osa   1
 
       Reactin alkeet
-            1.1 : kurssitiedot, step1            [Palautus]
-            1.2 : kurssitiedot, step2            [Palautus]
+            1.1 : kurssitiedot, step1           [Palautus]
+            1.2 : kurssitiedot, step2           [Palautus]
       JavaScriptia
-            1.3 : kurssitiedot step3             [Palautus]
-            1.4 : kurssitiedot step4             [Palautus]
-            1.5 : kurssitiedot step4             [Palautus]
+            1.3 : kurssitiedot, step3           [Palautus]
+            1.4 : kurssitiedot, step4           [Palautus]
+            1.5 : kurssitiedot, step4           [Palautus]
       Komponentin tila ja tapahtumankäsittely
             
       Monimutkaisempi tila, Reactin debuggaus
